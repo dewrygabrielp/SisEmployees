@@ -1,0 +1,7 @@
+C:\Users\Delli7\Desktop\Dewry\Projects desktops\Employee\Access\bin\Debug\Access.dll.config
+C:\Users\Delli7\Desktop\Dewry\Projects desktops\Employee\Access\bin\Debug\Access.dll
+C:\Users\Delli7\Desktop\Dewry\Projects desktops\Employee\Access\bin\Debug\Access.pdb
+C:\Users\Delli7\Desktop\Dewry\Projects desktops\Employee\Access\obj\Debug\Access.csprojAssemblyReference.cache
+C:\Users\Delli7\Desktop\Dewry\Projects desktops\Employee\Access\obj\Debug\Access.csproj.CoreCompileInputs.cache
+C:\Users\Delli7\Desktop\Dewry\Projects desktops\Employee\Access\obj\Debug\Access.dll
+C:\Users\Delli7\Desktop\Dewry\Projects desktops\Employee\Access\obj\Debug\Access.pdb
